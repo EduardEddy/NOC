@@ -1,0 +1,16 @@
+node_modules/
+dist/
+
+# LOGS
+.DS_Store
+
+logs/*
+
+.env
+.env.test
+
+mongo/
+postgres/
+mongo-test/
+postgres-test/
+
